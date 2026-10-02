@@ -1,0 +1,10 @@
+{
+	"name": "Extension Shortcuts",
+	"author": "stdAri",
+	"description": "Lists every enabled extension that has a configuration page in the settings menu, one click away.",
+	"version": "0.1.0",
+	"entrypoint": "ExtensionShortcuts",
+	"type": "user",
+	"compatibility": "1.28.0",
+	"url": "https://github.com/stdAri/xExtension-ExtensionShortcuts"
+}
